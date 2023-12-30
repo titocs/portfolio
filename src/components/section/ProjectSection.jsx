@@ -1,8 +1,6 @@
 import { IconContext } from 'react-icons';
-import { BsGithub } from 'react-icons/bs';
 import { LuExternalLink } from 'react-icons/lu';
 import Fade from 'react-reveal/Fade';
-import PropTypes from 'prop-types';
 
 const ProjectSection = () => {
   

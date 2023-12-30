@@ -16,7 +16,7 @@ const Footer = () => {
               target="_blank"
               rel="noopener noreferrer">
               <IconContext.Provider value={{ color: '#64748B', size: '22px' }}>
-                <FiGithub />
+                <FiGithub className='transition ease-in-out delay-80 hover:cursor-pointer hover:fill-[#38BDF8]'/>
               </IconContext.Provider>
             </a>
           </li>
@@ -26,7 +26,7 @@ const Footer = () => {
               target="_blank"
               rel="noopener noreferrer">
               <IconContext.Provider value={{ color: '#64748B', size: '22px' }}>
-                <AiOutlineInstagram />
+                <AiOutlineInstagram className='transition ease-in-out delay-80 hover:cursor-pointer hover:fill-[#38BDF8]'/>
               </IconContext.Provider>
             </a>
           </li>
@@ -36,7 +36,7 @@ const Footer = () => {
               target="_blank"
               rel="noopener noreferrer">
               <IconContext.Provider value={{ color: '#64748B', size: '22px' }}>
-                <BsLinkedin />
+                <BsLinkedin className='transition ease-in-out delay-80 hover:cursor-pointer hover:fill-[#38BDF8]'/>
               </IconContext.Provider>
             </a>
           </li>

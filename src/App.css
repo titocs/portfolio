@@ -1,0 +1,19 @@
+body {
+  position: relative;
+}
+
+input,
+textarea,
+button,
+select,
+a {
+    -webkit-tap-highlight-color: transparent;
+}
+
+main {
+  background-color: #111729;
+}
+
+body.no-scroll {
+  overflow: hidden;
+}

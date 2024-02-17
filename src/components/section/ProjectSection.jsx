@@ -34,14 +34,12 @@ const ProjectSection = () => {
                   Featured Project
                 </h5>
                 <h1 className="text-slate-100 text-lg">
-                  Frontendmentor Solution
+                  Vanilla Website Applications
                 </h1>
               </div>
               <p className="text-slate-500 mb-5">
-                A showcase of my front-end skills. This collection features my
-                solutions to various Frontend Mentor challenges using vanilla tech
-                stack (vanilla CSS, JS, HTML), each providing a real-life workflow
-                experience. From designs, assets, and style requirements.
+                This repository serves as my sandbox for refining my skills in web development using the essential
+                trio: HTML, CSS, and JavaScript. Here, I&apos;ll be undertaking various projects, and exercises aimed at mastering web development without the aid of frameworks or libraries.
               </p>
               <ul className="flex flex-wrap gap-5 mb-5 text-sm text-slate-500 font-inconsolata">
                 <li>Vanilla CSS</li>

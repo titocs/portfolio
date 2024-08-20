@@ -41,7 +41,7 @@ const OffCanvas = ({ openOffCanvasMenu, setopenOffCanvasMenu }) => {
             <li className="px-5 py-1 w-fit border border-primary-blue rounded-md">
               <a
                 target="_blank"
-                href="https://drive.google.com/file/d/1c-qDeCcDziWOW58T-GNgpzm5HA2Fjgbs/view?usp=sharing" rel="noreferrer"
+                href="https://drive.google.com/file/d/12Wq1A-BQrbO1RA0n6QI4RkIfrj_PBuMc/view?usp=sharing" rel="noreferrer"
               >
                 Resume
               </a>

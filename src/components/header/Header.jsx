@@ -48,12 +48,12 @@ const Header = ({ openOffCanvasMenu, setopenOffCanvasMenu }) => {
               Contact
             </a>
           </li>
-          <li className="px-5 text-primary-blue text-xs py-[10px] w-fit border border-primary-blue rounded-md">
+          {/* <li className="px-5 text-primary-blue text-xs py-[10px] w-fit border border-primary-blue rounded-md">
             <a target="_blank"
               href="https://drive.google.com/file/d/12Wq1A-BQrbO1RA0n6QI4RkIfrj_PBuMc/view?usp=sharing" rel="noreferrer">
               Resume
             </a>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </header>

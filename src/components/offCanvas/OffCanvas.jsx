@@ -38,14 +38,14 @@ const OffCanvas = ({ openOffCanvasMenu, setopenOffCanvasMenu }) => {
             <li className="font-semibold">
               <a href="#end">Contact</a>
             </li>
-            <li className="px-5 py-1 w-fit border border-primary-blue rounded-md">
+            {/* <li className="px-5 py-1 w-fit border border-primary-blue rounded-md">
               <a
                 target="_blank"
                 href="https://drive.google.com/file/d/12Wq1A-BQrbO1RA0n6QI4RkIfrj_PBuMc/view?usp=sharing" rel="noreferrer"
               >
                 Resume
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
       </nav>

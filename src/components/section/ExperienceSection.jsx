@@ -157,7 +157,7 @@ export default function TabsLgBasicFullWidth() {
                   </span>
                 </h3>
                 <h5 className="font-inconsolata text-slate-400">
-                  January — June 2024
+                  January 2024 — Present
                 </h5>
               </div>
               <ul>
